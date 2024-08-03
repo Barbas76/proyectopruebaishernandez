@@ -6,3 +6,5 @@ Fases de ciclo de vida de Proyecto de software
 - Analisis
 - Diseño
 - Desarrollo
+  
+Verificacion
